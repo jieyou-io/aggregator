@@ -1,6 +1,26 @@
 proxies:
 - alterId: 0
   cipher: auto
+  name: CV-LJX
+  port: 49309
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: CW-KUR
+  port: 49309
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
   name: 中国-香港-005
   network: ws
   port: 23532
@@ -9,7 +29,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: ed4fa53e-d428-4d2e-8f8d-0704afc9a28c
+  uuid: cb4707e6-0fd5-40c8-94e8-5f807176709b
   ws-opts:
     path: /
 - alterId: 0
@@ -22,7 +42,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: ed4fa53e-d428-4d2e-8f8d-0704afc9a28c
+  uuid: cb4707e6-0fd5-40c8-94e8-5f807176709b
   ws-opts:
     path: /
 - alterId: 0
@@ -35,7 +55,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: ed4fa53e-d428-4d2e-8f8d-0704afc9a28c
+  uuid: cb4707e6-0fd5-40c8-94e8-5f807176709b
   ws-opts:
     path: /
 - alterId: 0
@@ -47,7 +67,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 加拿大1
@@ -57,7 +77,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -67,7 +87,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 印度 IEPL专线NO1
@@ -77,7 +97,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -87,7 +107,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -97,10 +117,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - cipher: chacha20-ietf-poly1305
   name: 台湾 1
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20032
   server: gy.666666222.shop
   type: ss
@@ -114,10 +134,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - cipher: chacha20-ietf-poly1305
   name: 台湾01
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 47564
   server: gy.666666222.shop
   type: ss
@@ -132,7 +152,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0fbfff04-7ef1-40bd-820b-0fc457a4627b
+  uuid: 0a30b379-4bb6-4bfe-b9d7-56793c0471bb
   ws-opts:
     headers:
       Host: tw02.hy2.one
@@ -146,7 +166,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -156,7 +176,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 台湾2全天极速优先使用|X3
@@ -167,7 +187,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d2f1a89d-69dd-41a9-b938-94ae095331fb
+  uuid: 88c48a96-94f5-4ee5-a0a2-0bbb0ae60a2e
   ws-opts:
     headers:
       Host: tw02.xn--io0a7iw0ab67b.xyz
@@ -181,7 +201,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 德国-法兰克福-001
@@ -192,7 +212,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: ed4fa53e-d428-4d2e-8f8d-0704afc9a28c
+  uuid: cb4707e6-0fd5-40c8-94e8-5f807176709b
   ws-opts:
     path: /
 - alterId: 0
@@ -204,7 +224,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 新加坡02-V4-流媒体
@@ -215,7 +235,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0fbfff04-7ef1-40bd-820b-0fc457a4627b
+  uuid: 0a30b379-4bb6-4bfe-b9d7-56793c0471bb
   ws-opts:
     headers:
       Host: sg0002.hy-2.top
@@ -229,7 +249,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -239,7 +259,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 日本 IEPL专线NO3
@@ -249,31 +269,31 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - cipher: chacha20-ietf-poly1305
   name: 日本01
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20002
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本02
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20004
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本03
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20006
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本04
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20008
   server: gy.666666222.shop
   type: ss
@@ -287,7 +307,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -297,7 +317,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 法国 CM 隧道NO1
@@ -307,7 +327,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -317,7 +337,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -327,7 +347,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 泰国 IEPL专线 NO1
@@ -337,7 +357,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 澳大利亚 IEPL专线NO1
@@ -347,7 +367,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生1
@@ -357,7 +377,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -367,7 +387,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 澳门NO.2
@@ -377,7 +397,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 美国 IEPL专线NO1
@@ -387,17 +407,17 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - cipher: chacha20-ietf-poly1305
   name: 美国 纽约01
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20013
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 美国 纽约2
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20016
   server: gy.666666222.shop
   type: ss
@@ -412,7 +432,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d2f1a89d-69dd-41a9-b938-94ae095331fb
+  uuid: 88c48a96-94f5-4ee5-a0a2-0bbb0ae60a2e
   ws-opts:
     headers:
       Host: us5.sulink.one
@@ -426,7 +446,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -436,7 +456,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 荷兰 IEPL专线NO1
@@ -446,7 +466,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 葡萄牙 IEPL专线NO1
@@ -456,7 +476,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 阿根廷 IEPL专线NO1
@@ -466,7 +486,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 非洲 IEPL专线 NO1
@@ -476,7 +496,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - alterId: 0
   cipher: auto
   name: 韩国 IEPL专线NO1
@@ -486,9 +506,9 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - name: 韩国-三网优化2
-  password: ce54f074-b8c7-4347-9acd-df8e07e85800
+  password: 455938e4-d5af-4035-8de6-8e8826d5e522
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
@@ -504,7 +524,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
 - alterId: 0
   cipher: auto
   name: 香港 IEPL专线NO3
@@ -514,24 +534,24 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 21d018df-ea5a-459e-8f22-0fc1e60a812f
+  uuid: 978b4eed-2dbd-4c75-8b15-7d53dd7052b7
 - cipher: chacha20-ietf-poly1305
   name: 香港01
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 34338
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港02
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20035
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港03
-  password: ee0206a9-1ac0-4d9c-bf8e-c58a57da2909
+  password: 7c6e0f5e-47d7-493f-b84e-6ebb4f55f762
   port: 20052
   server: gy.666666222.shop
   type: ss
@@ -545,4 +565,368 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: a19e355c-377b-464e-9be6-9b353aa5e742
+  uuid: 2a9000f6-4394-436d-9a1f-5f9fdb50287a
+- alterId: 0
+  cipher: auto
+  name: 使用一-1A
+  port: 49322
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 使用一-1B
+  port: 49322
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
+  name: 使用二-1A
+  port: 49323
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 使用二-1B
+  port: 49323
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
+  name: 加拿大丨快速-1A
+  port: 49307
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 加拿大丨快速-1B
+  port: 49307
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- cipher: chacha20-ietf-poly1305
+  name: 印度原生IP-1A
+  password: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+  port: 49308
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 印度原生IP-1B
+  password: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+  port: 49308
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 台湾丨解-1A
+  port: 49302
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 台湾丨解-1B
+  port: 49302
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- cipher: chacha20-ietf-poly1305
+  name: 德国原生IP-1A
+  password: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+  port: 49305
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 德国原生IP-1B
+  password: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+  port: 49305
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 新加坡丨解-1A
+  port: 49310
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 新加坡丨解-1B
+  port: 49310
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
+  name: 日本丨解-1A
+  port: 49303
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 日本丨解-1B
+  port: 49303
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
+  name: 日本原生IP-1A
+  port: 49315
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 日本原生IP-1B
+  port: 49315
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
+  name: 泰国丨快速-1A
+  port: 49318
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 泰国丨快速-1B
+  port: 49318
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- cipher: chacha20-ietf-poly1305
+  name: 澳大利亚原生IP-1A
+  password: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+  port: 49314
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 澳大利亚原生IP-1B
+  password: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+  port: 49314
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 美国 01-1A
+  port: 49304
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 美国 01-1B
+  port: 49304
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
+  name: 美国 02-1A
+  port: 49312
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 美国 02-1B
+  port: 49312
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- alterId: 0
+  cipher: auto
+  name: 美国丨快速-1A
+  port: 49316
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 美国丨快速-1B
+  port: 49316
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- cipher: chacha20-ietf-poly1305
+  name: 英国原生IP-1A
+  password: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+  port: 49306
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 英国原生IP-1B
+  password: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+  port: 49306
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 越南丨解-1A
+  port: 49321
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 越南丨解-1B
+  port: 49321
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- cipher: chacha20-ietf-poly1305
+  name: 韩国原生IP-1A
+  password: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+  port: 49311
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 韩国原生IP-1B
+  password: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+  port: 49311
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 香港 01-1A
+  port: 49301
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 香港 01-1B
+  port: 49301
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+- cipher: chacha20-ietf-poly1305
+  name: 香港 02-1A
+  password: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+  port: 49319
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 香港 02-1B
+  password: 4ceb5087-8c28-4f9c-a563-907ff22680c0
+  port: 49319
+  server: yoyo.cmyiphone.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 马来西亚丨解-1A
+  port: 49317
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 7d9749ae-039b-4ef4-8332-c546b46d6c0d
+- alterId: 0
+  cipher: auto
+  name: 马来西亚丨解-1B
+  port: 49317
+  server: yoyo.cmyiphone.top
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 4ceb5087-8c28-4f9c-a563-907ff22680c0
