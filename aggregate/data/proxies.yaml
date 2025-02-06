@@ -1,112 +1,112 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
   name: HK 01 ALICE
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34001
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: HK 03 LAIN
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34003
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: HK 04 BAGEVM
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34004
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: JP 02 BAGEVM
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34102
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: JP 03 NTT HOME
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34103
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: JP 04 LAIN
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34104
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: SG 01 SPEEDY
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34301
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: SG 02 GGV
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34302
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: SG 03 BAGEVM
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34303
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: TW 01 DUO
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34501
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: US 01 GGVISON
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34401
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: US 02 CCS
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34402
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: US 03 CC
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 34403
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 丹麦 哥本哈根
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58817
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 乌克兰 文尼察
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58826
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 俄罗斯 莫斯科
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58837
   server: southvip1.pkyun.xyz
   type: ss
@@ -115,25 +115,25 @@ proxies:
   cipher: auto
   name: 俄罗斯-圣彼得堡-015
   network: ws
-  port: 20310
+  port: 20311
   server: 195.58.49.42
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 38f8850e-e453-4bc7-bb49-56579937b39f
+  uuid: 885360ff-43e4-4113-8309-8390ebe7f41d
   ws-opts:
     path: /
 - cipher: chacha20-ietf-poly1305
   name: 保加利亚 索菲亚
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58841
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 冰岛 雷克亚维克
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58710
   server: southvip1.pkyun.xyz
   type: ss
@@ -147,10 +147,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 加拿大 蒙特利尔
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58809
   server: southvip1.pkyun.xyz
   type: ss
@@ -164,7 +164,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -174,33 +174,40 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 匈牙利 布达佩斯
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58827
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 北马 北马其顿
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58823
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 南非 约翰内斯堡
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58818
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 卡塔尔 多哈
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58852
   server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 印度 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25911
+  server: in-01.douyucdn.top
   type: ss
   udp: true
 - alterId: 0
@@ -212,7 +219,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -222,7 +229,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -232,17 +239,45 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 印度尼西亚 雅加达
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58846
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
+  name: 台湾 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28861
+  server: tw-01.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 台湾 02
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28862
+  server: tw-02.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 台湾 03
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28863
+  server: tw-03.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 台湾 04
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28864
+  server: tw-04.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
   name: 台湾 1
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20032
   server: gy.666666222.shop
   type: ss
@@ -256,7 +291,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - alterId: 0
   cipher: auto
   name: 台湾 IEPL专线NO3
@@ -266,10 +301,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 台湾01
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 47564
   server: gy.666666222.shop
   type: ss
@@ -283,7 +318,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -293,108 +328,84 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
-- name: 台湾BGP 中转 01 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 48831
-  server: a9c9fc40af2e0db4bf0a4d7f5ffbb918.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: www.ahu.edu.cn
-  type: trojan
-  udp: true
-- name: 台湾BGP 中转 02 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 44386
-  server: cac569a596131f94fb46ec63024d6272.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: www.ahu.edu.cn
-  type: trojan
-  udp: true
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 吉尔吉斯斯坦 比什凯克
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58848
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 哈萨克斯坦 阿斯塔纳
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58845
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 哥伦比亚 波哥大
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58849
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 土耳其 土鸡
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58815
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 塞尔维亚 贝尔格莱德
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58840
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 墨西哥 克雷塔罗
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58816
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 孟加拉 达卡
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58825
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 安哥拉 罗安达
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58839
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 尼日利亚 阿布贾
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58804
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 尼泊尔 加德满都
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58828
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 德国
-  network: ws
-  port: 443
-  server: visa.com
-  skip-cert-verify: true
-  tls: false
-  type: vmess
+- cipher: chacha20-ietf-poly1305
+  name: 德国 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28491
+  server: de-01.douyucdn.top
+  type: ss
   udp: true
-  uuid: 488f3005-5237-4ca1-adff-c0cd61a2b2e2
-  ws-opts:
-    headers:
-      Host: go.daluquan.top
-    path: /
 - alterId: 0
   cipher: auto
   name: 德国 IEPL专线NO1
@@ -404,10 +415,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 德国 法兰克福
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58805
   server: southvip1.pkyun.xyz
   type: ss
@@ -416,49 +427,76 @@ proxies:
   cipher: auto
   name: 德国-法兰克福-001
   network: ws
-  port: 20310
+  port: 20311
   server: 185.121.134.12
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 38f8850e-e453-4bc7-bb49-56579937b39f
+  uuid: 885360ff-43e4-4113-8309-8390ebe7f41d
   ws-opts:
     path: /
-- alterId: 0
-  cipher: auto
-  name: 德国法兰克福
-  network: ws
-  port: 23451
-  server: frankfurt.faforex.eu.org
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 488f3005-5237-4ca1-adff-c0cd61a2b2e2
-  ws-opts:
-    headers:
-      Host: us-new03.daluquan.top
-    path: /itdog?ed=2560
 - cipher: chacha20-ietf-poly1305
   name: 意大利 米兰
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58835
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 捷克 维索基纳州
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58820
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 斯洛伐克
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58847
   server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 新加坡 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25651
+  server: sg-01.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 新加坡 02
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25652
+  server: sg-02.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 新加坡 03
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25653
+  server: sg-03.douyucdn.top
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  name: 新加坡 04
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25654
+  server: sg-04.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 新加坡 05
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25565
+  server: sg-05.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 新加坡 06
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25566
+  server: sg-06.douyucdn.top
   type: ss
   udp: true
 - alterId: 0
@@ -470,23 +508,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
-- name: 新加坡BGP 中转 01 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 43832
-  server: 89158e08fbcd0c614a8f2dac8e2f6256.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: www.ucloud.cn
-  type: trojan
-  udp: true
-- name: 新加坡BGP 中转 02 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 48642
-  server: fa786edd30a3380ac4695f7499226e33.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: www.ucloud.cn
-  type: trojan
-  udp: true
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - alterId: 0
   cipher: auto
   name: 新加坡NO.1
@@ -496,7 +518,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -506,44 +528,42 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
-- alterId: 0
-  cipher: auto
-  name: 新加坡西部
-  network: ws
-  port: 23452
-  server: westsg2-ddns.oraclenat.cc
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 488f3005-5237-4ca1-adff-c0cd61a2b2e2
-  ws-opts:
-    headers:
-      Host: westsg2-ddns.oraclenat.cc
-    path: /
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 新西兰 奥克兰
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58801
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 日本
-  network: ws
-  port: 23451
-  server: 1-osaka-p.aboutanime.eu.org
-  skip-cert-verify: true
-  tls: false
-  type: vmess
+- cipher: chacha20-ietf-poly1305
+  name: 日本 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25811
+  server: jp-01.douyucdn.top
+  type: ss
   udp: true
-  uuid: 488f3005-5237-4ca1-adff-c0cd61a2b2e2
-  ws-opts:
-    headers:
-      Host: 1-osaka-p.aboutanime.eu.org
-    path: /
+- cipher: chacha20-ietf-poly1305
+  name: 日本 02
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25812
+  server: jp-02.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 日本 03
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25813
+  server: jp-03.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 日本 04
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25814
+  server: jp-04.douyucdn.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 日本 IEPL专线NO1
@@ -553,50 +573,34 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 日本01
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20002
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本02
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20004
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本03
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20006
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 日本04
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20008
   server: gy.666666222.shop
   type: ss
-  udp: true
-- name: 日本BGP 中转 01 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 47748
-  server: e4d9c9a7a84d02296d74bb8cad549393.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: passport.ucloud.cn
-  type: trojan
-  udp: true
-- name: 日本BGP 中转 02 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 44562
-  server: b945ecf433f10d9cdf716f08030a0d3d.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: passport.ucloud.cn
-  type: trojan
   udp: true
 - alterId: 0
   cipher: auto
@@ -607,7 +611,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -617,24 +621,24 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 柬埔寨 金边
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58734
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 比利时 布鲁塞尔
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58833
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 沙特阿拉伯 吉达
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58850
   server: southvip1.pkyun.xyz
   type: ss
@@ -648,7 +652,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -658,7 +662,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -668,17 +672,17 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 波兰 弗罗茨瓦夫
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58814
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 波黑 波斯尼亚
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58813
   server: southvip1.pkyun.xyz
   type: ss
@@ -692,10 +696,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 泰国 曼谷
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 32306
   server: southvip1.pkyun.xyz
   type: ss
@@ -709,10 +713,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 澳大利亚 悉尼
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58851
   server: southvip1.pkyun.xyz
   type: ss
@@ -726,7 +730,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -736,7 +740,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 澳门NO.2
@@ -746,71 +750,77 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 爱尔兰 都柏林
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58832
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 瑞典 斯德摩尔哥
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58824
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 白俄罗斯 明斯克市
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58838
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 秘鲁
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58821
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 突尼斯 突尼斯市
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58854
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 立陶宛 维尔纽斯
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58736
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 缅甸 仰光
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58807
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 美国
-  network: ws
-  port: 23451
-  server: shhh001.oraclenat.cc
-  skip-cert-verify: true
-  tls: false
-  type: vmess
+- cipher: chacha20-ietf-poly1305
+  name: 美国 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25511
+  server: us-01.douyucdn.top
+  type: ss
   udp: true
-  uuid: 488f3005-5237-4ca1-adff-c0cd61a2b2e2
-  ws-opts:
-    headers:
-      Host: shhh001.oraclenat.cc
-    path: /
+- cipher: chacha20-ietf-poly1305
+  name: 美国 02
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25512
+  server: us-02.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 美国 03
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25513
+  server: us-03.douyucdn.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 美国 IEPL专线NO1
@@ -820,17 +830,17 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 美国 纽约01
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20013
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 美国 纽约2
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20016
   server: gy.666666222.shop
   type: ss
@@ -840,48 +850,16 @@ proxies:
   name: 美国-纽约-001
   network: ws
   port: 443
-  server: ngzwytqc.whmvmkwuey.store
+  server: crtiycgl.whmvmkwuey.store
   skip-cert-verify: true
   tls: true
   type: vmess
   udp: true
-  uuid: 38f8850e-e453-4bc7-bb49-56579937b39f
+  uuid: 885360ff-43e4-4113-8309-8390ebe7f41d
   ws-opts:
     headers:
-      Host: ngzwytqc.whmvmkwuey.store
+      Host: crtiycgl.whmvmkwuey.store
     path: /
-- name: 美国BGP 中转 01 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 49091
-  server: 45a758a796e4b6749f166db145146285.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: api.ucloud.cn
-  type: trojan
-  udp: true
-- name: 美国BGP 中转 02 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 43898
-  server: 6acefefb4f0350be81d96c6efc4ae694.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: api.ucloud.cn
-  type: trojan
-  udp: true
-- name: 美国BGP 中转 03 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 48500
-  server: 76e27c408799c2ee5dab3c9481c2b9db.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: api.ucloud.cn
-  type: trojan
-  udp: true
-- name: 美国BGP 中转 04 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 46122
-  server: 4c9b2ab170a45e13eb86d08001425a76.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: api.ucloud.cn
-  type: trojan
-  udp: true
 - alterId: 0
   cipher: auto
   name: 美国NO.1
@@ -891,7 +869,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -901,10 +879,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 芬兰 赫尔辛基
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58822
   server: southvip1.pkyun.xyz
   type: ss
@@ -918,7 +896,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - alterId: 0
   cipher: auto
   name: 英国1
@@ -928,7 +906,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - alterId: 0
   cipher: auto
   name: 英国2
@@ -938,10 +916,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 英格兰
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58811
   server: southvip1.pkyun.xyz
   type: ss
@@ -955,17 +933,17 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 荷兰 林堡省 艾赫尔斯霍芬
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58812
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 菲律宾 马尼拉
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58831
   server: southvip1.pkyun.xyz
   type: ss
@@ -979,24 +957,24 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 葡萄牙 维亚纳堡
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58830
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 越南 河内ISP
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58808
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 阿曼 马斯喀特
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58819
   server: southvip1.pkyun.xyz
   type: ss
@@ -1010,17 +988,17 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 阿根廷 布宜诺斯艾利斯
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58802
   server: southvip1.pkyun.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 阿联酋 富查伊拉
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58853
   server: southvip1.pkyun.xyz
   type: ss
@@ -1034,7 +1012,21 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
+- cipher: chacha20-ietf-poly1305
+  name: 韩国 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25821
+  server: kr-01.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 韩国 02
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 25822
+  server: kr-02.douyucdn.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 韩国 IEPL专线NO1
@@ -1044,9 +1036,9 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - name: 韩国-三网优化2
-  password: c5e51e79-0fb4-4eaa-97ca-9f405d08b21b
+  password: df34334c-1207-4bcc-bbd8-8a39742d8303
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
@@ -1062,7 +1054,49 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
+- cipher: chacha20-ietf-poly1305
+  name: 香港 01
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28521
+  server: hkg-01.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 香港 02
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28522
+  server: hkg-02.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 香港 03
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28523
+  server: hkg-03.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 香港 04
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28524
+  server: hkg-04.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 香港 05
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28525
+  server: hkg-05.douyucdn.top
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 香港 06
+  password: b51a1796-206d-4901-8ee5-81db5169cce2
+  port: 28526
+  server: hkg-06.douyucdn.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 香港 IEPL专线NO1
@@ -1072,67 +1106,27 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 0e8ae92a-8e2f-42be-93e2-1a6549916368
+  uuid: b84ec266-23af-4394-a2a0-b1b949612bf5
 - cipher: chacha20-ietf-poly1305
   name: 香港01
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 34338
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港02
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20035
   server: gy.666666222.shop
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港03
-  password: fc73ef01-a7e1-4530-90d7-26ed6da933e4
+  password: 2038c8e8-acec-4027-8699-6296cd280851
   port: 20052
   server: gy.666666222.shop
   type: ss
-  udp: true
-- name: 香港BGP 三网直连1X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 41372
-  server: 9d542307362eb172f93984a5016ccd35.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: live.douyin.com
-  type: trojan
-  udp: true
-- name: 香港BGP 中转 01 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 47159
-  server: 6a4782242b1cb0b85edd4316df7a0931.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: console.ucloud.cn
-  type: trojan
-  udp: true
-- name: 香港BGP 中转 02 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 49861
-  server: 06d10914672e5b4af78e908947811fc6.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: console.ucloud.cn
-  type: trojan
-  udp: true
-- name: 香港BGP 中转 03 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 47654
-  server: 19051555f1f7b7623be110a387aa8e34.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: console.ucloud.cn
-  type: trojan
-  udp: true
-- name: 香港BGP 中转 04 1.5X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 42135
-  server: ae280a0a9ba8452257642d684d740063.node.tro.node-is.green
-  skip-cert-verify: true
-  sni: console.ucloud.cn
-  type: trojan
   udp: true
 - alterId: 0
   cipher: auto
@@ -1143,17 +1137,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 233eba5a-0792-4e80-9c82-adc34caa7882
-- cipher: aes-128-gcm
-  name: 香港宇宙量子专线 2X
-  password: 1d2e7861-92bd-4baa-a75b-1e3ffd788592
-  port: 25000
-  server: lz.lianjianode.cc
-  type: ss
-  udp: true
+  uuid: e6deb989-d8b3-41f6-8772-45e3c0282715
 - cipher: chacha20-ietf-poly1305
   name: 马来西亚 吉隆坡
-  password: ba9fb2a4-47d8-49f7-88a3-070fbe7bb482
+  password: 68d9d482-8297-45ef-86fc-17d0474a835c
   port: 58803
   server: southvip1.pkyun.xyz
   type: ss
