@@ -1,522 +1,4 @@
 proxies:
-- cipher: aes-256-gcm
-  name: LV.3-台湾1-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50321
-  server: zh01lv3tw01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-台湾2-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50321
-  server: zh01lv3tw02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-台湾3-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50321
-  server: zh01lv3tw03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-新加坡1-NF D
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50031
-  server: zh01lv3sgp01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-新加坡2-NF D
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50031
-  server: zh01lv3sgp02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-新加坡3-NF D
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50031
-  server: zh01lv3sgp03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-日本1-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50021
-  server: zh01lv3jp01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-日本2-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50021
-  server: zh01lv3jp02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-日本3-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50021
-  server: zh01lv3jp03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-美国1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50001
-  server: zh01lv3us01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-美国2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50001
-  server: zh01lv3us02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-美国3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50001
-  server: zh01lv3us03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-英国1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50011
-  server: zh01lv3uk01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-英国2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50011
-  server: zh01lv3uk02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-英国3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50011
-  server: zh01lv3uk03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-香港1-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50311
-  server: zh01lv3hk01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-香港2-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50311
-  server: zh01lv3hk02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.3-香港3-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 50311
-  server: zh01lv3hk03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-加拿大1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 37087
-  server: zh01lv5ca01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-加拿大2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 37087
-  server: zh01lv5ca02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-加拿大3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 37087
-  server: zh01lv5ca03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-加拿大4
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 37087
-  server: zh01lv5ca04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-加拿大5
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 37087
-  server: zh01lv5ca05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-印度1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 38087
-  server: zh01lv5in01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-印度2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 38087
-  server: zh01lv5in02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-印度3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 38087
-  server: zh01lv5in03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-印度4
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 38087
-  server: zh01lv5in04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-印度5
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 38087
-  server: zh01lv5in05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-台湾1-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31187
-  server: zh01lv5tw01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-台湾2-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31187
-  server: zh01lv5tw02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-台湾3-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31187
-  server: zh01lv5tw03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-台湾4-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31187
-  server: zh01lv5tw04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-台湾5-NF 动画疯
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31187
-  server: zh01lv5tw05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-德国1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 36087
-  server: zh01lv5ge01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-德国2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 36087
-  server: zh01lv5ge02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-德国3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 36087
-  server: zh01lv5ge03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-德国4
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 36087
-  server: zh01lv5ge04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-德国5
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 36087
-  server: zh01lv5ge05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-新加坡1-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 34087
-  server: zh01lv5sgp01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-新加坡2-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 34087
-  server: zh01lv5sgp02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-新加坡3-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 34087
-  server: zh01lv5sgp03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-新加坡4-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 34087
-  server: zh01lv5sgp04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-新加坡5-NETFLIX
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 34087
-  server: zh01lv5sgp05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-日本1-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 32087
-  server: zh01lv5jp01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-日本2-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 32087
-  server: zh01lv5jp02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-日本3-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 32087
-  server: zh01lv5jp03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-日本4-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 32087
-  server: zh01lv5jp04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-日本5-NF ABEMATV
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 32087
-  server: zh01lv5jp05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-澳大利亚1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 39087
-  server: zh01lv5au01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-澳大利亚2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 39087
-  server: zh01lv5au02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-澳大利亚3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 39087
-  server: zh01lv5au03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-澳大利亚4
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 39087
-  server: zh01lv5au04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-澳大利亚5
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 39087
-  server: zh01lv5au05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-美国1-ISP
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 33087
-  server: zh01lv5us01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-美国2-ISP
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 33087
-  server: zh01lv5us02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-美国3-ISP
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 33087
-  server: zh01lv5us03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-美国4-ISP
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 33087
-  server: zh01lv5us04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-美国5-ISP
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 33087
-  server: zh01lv5us05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-英国1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 35087
-  server: zh01lv5uk01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-英国2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 35087
-  server: zh01lv5uk02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-英国3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 35087
-  server: zh01lv5uk03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-英国4
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 35087
-  server: zh01lv5uk04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-英国5
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 35087
-  server: zh01lv5uk05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港1
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk01.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港10
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk10.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港2
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk02.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港3
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk03.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港4
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk04.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港5
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk05.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港6
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk06.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港7
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk07.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港8
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk08.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: LV.5-中国-香港9
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: zh01lv5hk09.feiguayun.xyz
-  type: ss
-  udp: true
-- cipher: aes-256-gcm
-  name: W0-DVB
-  password: bcfbde5c-0959-4e3c-acbf-9c3639a6420c
-  port: 31087
-  server: test1.feiguayun.xyz
-  type: ss
-  udp: true
 - alterId: 0
   cipher: auto
   name: 加拿大1
@@ -526,7 +8,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -536,7 +18,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -546,7 +28,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -556,7 +38,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
+- cipher: chacha20-ietf-poly1305
+  name: 台湾
+  password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+  port: 50555
+  server: chiyu.myfczy169.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 台湾1
@@ -566,7 +55,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -576,122 +65,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - cipher: chacha20-ietf-poly1305
-  name: 台湾家宽直连 20X
-  password: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  port: 26900
-  server: hinetiw0k.yooddns.stream
+  name: 新加坡
+  password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+  port: 13127
+  server: chiyu.myfczy169.top
   type: ss
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 圣何塞1
-  network: ws
-  port: 443
-  server: 443ip.yangmie.online
-  servername: shs111.kejixiaoqi666.store
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 圣何塞2
-  network: ws
-  port: 443
-  server: bestcf.mfwl.art
-  servername: shs111.kejixiaoqi666.store
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 圣何塞3
-  network: ws
-  port: 443
-  server: bestcf.top
-  servername: shs111.kejixiaoqi666.store
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 圣何塞4
-  network: ws
-  port: 443
-  server: xiaoqi.yangmie.online
-  servername: shs111.kejixiaoqi666.store
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 圣何塞5
-  network: ws
-  port: 443
-  server: time.is
-  servername: shs111.kejixiaoqi666.store
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 德国-法兰克福-001
-  network: ws
-  port: 20506
-  server: 45.147.201.231
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 5a25f050-971a-4abd-a3bb-00dad58c5a8a
-  ws-opts:
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 新加坡CF
-  network: ws
-  port: 80
-  server: time.is
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: mgsg2.zhousi.link
-    path: /
 - alterId: 0
   cipher: auto
   name: 新加坡NO.1
@@ -701,7 +82,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -711,17 +92,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
-- alterId: 0
-  cipher: auto
-  name: 日本1 移动高速
-  port: 58199
-  server: 2603:c023:f:8000:e61:f5f8:ac0f:a617
-  skip-cert-verify: true
-  tls: false
-  type: vmess
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
+- cipher: chacha20-ietf-poly1305
+  name: 日本
+  password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+  port: 25578
+  server: chiyu.myfczy169.top
+  type: ss
   udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
 - alterId: 0
   cipher: auto
   name: 日本NO.1
@@ -731,7 +109,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -741,46 +119,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
-- alterId: 0
-  cipher: auto
-  name: 日本V
-  network: ws
-  port: 443
-  server: bookmyshow.com
-  servername: jpv.xiaoqi555.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: jpv.xiaoqi555.xyz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 日本VULTR1
-  network: ws
-  port: 443
-  server: www.visa.com
-  servername: jpv.xiaoqi555.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  ws-opts:
-    headers:
-      Host: jpv.xiaoqi555.xyz
-    path: /
-- cipher: chacha20-ietf-poly1305
-  name: 日本极速 200X
-  password: 80e1109f-1b12-4c67-8a2f-670f0b797fed
-  port: 45679
-  server: 1c4.bulldognet-dstat.uk
-  type: ss
-  udp: true
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -790,7 +129,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -800,7 +139,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 泰国NO1
@@ -810,7 +149,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 泰国NO2
@@ -820,7 +159,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生1
@@ -830,7 +169,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -840,7 +179,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
+- cipher: chacha20-ietf-poly1305
+  name: 美国
+  password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+  port: 19161
+  server: chiyu.myfczy169.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 美国-拉斯维加斯-001
@@ -851,7 +197,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 5a25f050-971a-4abd-a3bb-00dad58c5a8a
+  uuid: e4952e2e-f6e4-49d1-8e69-deffde2562f0
   ws-opts:
     path: /
 - alterId: 0
@@ -864,20 +210,20 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 5a25f050-971a-4abd-a3bb-00dad58c5a8a
+  uuid: e4952e2e-f6e4-49d1-8e69-deffde2562f0
   ws-opts:
     path: /
 - alterId: 0
   cipher: auto
   name: 美国-纽约-001
   network: ws
-  port: 22037
+  port: 22038
   server: 45.147.201.231
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 5a25f050-971a-4abd-a3bb-00dad58c5a8a
+  uuid: e4952e2e-f6e4-49d1-8e69-deffde2562f0
   ws-opts:
     path: /
 - alterId: 0
@@ -889,7 +235,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -899,7 +245,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
+- cipher: chacha20-ietf-poly1305
+  name: 英国
+  password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+  port: 26480
+  server: chiyu.myfczy169.top
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 英国1
@@ -909,7 +262,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 英国2
@@ -919,7 +272,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO1
@@ -929,7 +282,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO2
@@ -939,25 +292,15 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - name: 韩国-三网优化2
-  password: 4365ddcb-473f-4f5f-929a-cdc366395a63
+  password: 04ad529c-ed6a-48d9-b734-3f3a5d7293ea
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
   sni: kr-qingyun.dwyun.me
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 香港
-  port: 19901
-  server: xg.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
 - alterId: 0
   cipher: auto
   name: 香港NO.1
@@ -967,7 +310,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 香港NO.2
@@ -977,7 +320,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO1
@@ -987,7 +330,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO2
@@ -997,4 +340,21 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 3281ffa1-dc01-414e-bce8-b095f1a597c3
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
+- cipher: chacha20-ietf-poly1305
+  name: 香港-1A
+  password: 887f01da-5b52-4dff-a80f-efe3380ac35f
+  port: 54016
+  server: chiyu.myfczy169.top
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 香港-1B
+  port: 19901
+  server: xg.dashuai.cyou
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: bf3cd7b0-d1f7-4438-846e-d82b1c2a49f3
