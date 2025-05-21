@@ -8,7 +8,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -18,7 +18,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -28,7 +28,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -38,7 +38,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 台湾1
@@ -48,7 +48,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -58,74 +58,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
-- cipher: chacha20-ietf-poly1305
-  name: 台湾家宽直连 20X
-  password: 2019a595-d19d-4911-a267-3b58e142e857
-  port: 26900
-  server: hinetiw0k.yooddns.stream
-  type: ss
-  udp: true
-- alterId: 0
-  cipher: auto
-  name: 圣何塞1
-  network: ws
-  port: 80
-  server: cf.090227.xyz
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 圣何塞2
-  network: ws
-  port: 80
-  server: bestcf.mfwl.art
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 圣何塞3
-  network: ws
-  port: 80
-  server: bestcf.top
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 圣何塞4
-  network: ws
-  port: 80
-  server: time.is
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: shs111.kejixiaoqi666.store
-    path: /
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 新加坡NO.1
@@ -135,7 +68,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -145,7 +78,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 日本NO.1
@@ -155,7 +88,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -165,78 +98,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
-- alterId: 0
-  cipher: auto
-  name: 日本V
-  network: ws
-  port: 443
-  server: bookmyshow.com
-  servername: jpv.xiaoqi555.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: jpv.xiaoqi555.xyz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 日本VULTR1
-  network: ws
-  port: 443
-  server: www.visa.com
-  servername: jpv.xiaoqi555.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: jpv.xiaoqi555.xyz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 日本VULTR2
-  network: ws
-  port: 443
-  server: bestcf.mfwl.art
-  servername: jpv.xiaoqi555.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: jpv.xiaoqi555.xyz
-    path: /
-- alterId: 0
-  cipher: auto
-  name: 日本VULTR3
-  network: ws
-  port: 443
-  server: time.is
-  servername: jpv.xiaoqi555.xyz
-  skip-cert-verify: true
-  tls: true
-  type: vmess
-  udp: true
-  uuid: 2019a595-d19d-4911-a267-3b58e142e857
-  ws-opts:
-    headers:
-      Host: jpv.xiaoqi555.xyz
-    path: /
-- cipher: chacha20-ietf-poly1305
-  name: 日本极速 50X
-  password: 2019a595-d19d-4911-a267-3b58e142e857
-  port: 45679
-  server: 1c4.bulldognet-dstat.uk
-  type: ss
-  udp: true
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -246,7 +108,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -256,7 +118,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 泰国NO1
@@ -266,7 +128,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 泰国NO2
@@ -276,7 +138,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生1
@@ -286,7 +148,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -296,7 +158,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 美国NO.1
@@ -306,7 +168,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -316,7 +178,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 英国1
@@ -326,7 +188,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 英国2
@@ -336,7 +198,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO1
@@ -346,7 +208,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO2
@@ -356,9 +218,9 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - name: 韩国-三网优化2
-  password: dbc66c7c-2861-48ea-a96d-9b09dbfe489c
+  password: 2d57d853-9b50-4f46-9765-78ef6ca70542
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
@@ -374,7 +236,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 香港NO.1
@@ -384,7 +246,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 香港NO.2
@@ -394,7 +256,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO1
@@ -404,7 +266,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO2
@@ -414,4 +276,4 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: d028679b-5a60-42ce-8054-4beb67103b20
+  uuid: d7c0f65e-1786-4145-a808-bd7e9e882729
