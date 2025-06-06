@@ -1,66 +1,6 @@
 proxies:
 - alterId: 0
   cipher: auto
-  name: 加拿大1
-  port: 45064
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 加拿大2
-  port: 45065
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 印度1
-  port: 45074
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 印度2
-  port: 45073
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 台湾1
-  port: 45078
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 台湾2
-  port: 45077
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
   name: 巴西-FREE优化节点-CDN | 2X
   network: ws
   port: 80
@@ -69,111 +9,11 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b67d5434-621f-40db-a0b2-0f6f47b4485e
+  uuid: 407c2e2f-1827-4bf9-b4f2-ddaad6f5ff7c
   ws-opts:
     headers:
       Host: tci4.tiamoci.us.kg
     path: /
-- alterId: 0
-  cipher: auto
-  name: 新加坡NO.1
-  port: 45054
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 新加坡NO.2
-  port: 45055
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 日本NO.1
-  port: 45056
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 日本NO.2
-  port: 45057
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 法国1
-  port: 45072
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 法国2
-  port: 45071
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 泰国NO1
-  port: 45060
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 泰国NO2
-  port: 45061
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 澳大利亚原生1
-  port: 45062
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 澳大利亚原生2
-  port: 45063
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
 - alterId: 0
   cipher: auto
   name: 美国-FREE优化节点-CDN | 2X
@@ -184,7 +24,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b67d5434-621f-40db-a0b2-0f6f47b4485e
+  uuid: 407c2e2f-1827-4bf9-b4f2-ddaad6f5ff7c
   ws-opts:
     headers:
       Host: tci1.tiamoci.us.kg
@@ -199,7 +39,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b67d5434-621f-40db-a0b2-0f6f47b4485e
+  uuid: 407c2e2f-1827-4bf9-b4f2-ddaad6f5ff7c
   ws-opts:
     headers:
       Host: tci5.tiamoci.us.kg
@@ -214,7 +54,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 58d8fb6a-5b0c-472f-bdd0-a408f6a92fee
+  uuid: 6ccfebb4-d11d-4c7f-aaba-cb6b52602406
   ws-opts:
     path: /
 - alterId: 0
@@ -227,7 +67,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 58d8fb6a-5b0c-472f-bdd0-a408f6a92fee
+  uuid: 6ccfebb4-d11d-4c7f-aaba-cb6b52602406
   ws-opts:
     path: /
 - alterId: 0
@@ -240,29 +80,9 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 58d8fb6a-5b0c-472f-bdd0-a408f6a92fee
+  uuid: 6ccfebb4-d11d-4c7f-aaba-cb6b52602406
   ws-opts:
     path: /
-- alterId: 0
-  cipher: auto
-  name: 美国NO.1
-  port: 45052
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 美国NO.2
-  port: 45053
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
 - alterId: 0
   cipher: auto
   name: 英国-FREE优化节点-CDN | 2X
@@ -273,69 +93,19 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b67d5434-621f-40db-a0b2-0f6f47b4485e
+  uuid: 407c2e2f-1827-4bf9-b4f2-ddaad6f5ff7c
   ws-opts:
     headers:
       Host: tci2.tiamoci.us.kg
     path: /
-- alterId: 0
-  cipher: auto
-  name: 英国1
-  port: 45066
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 英国2
-  port: 45067
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 韩国 专线NO1
-  port: 45076
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 韩国 专线NO2
-  port: 45075
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
 - name: 韩国-三网优化2
-  password: cfca3bbe-7960-4054-ae3b-c60779609806
+  password: 96414647-16f1-4f82-9334-1249b42a247e
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
   sni: kr-qingyun.dwyun.me
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 香港
-  port: 19901
-  server: xg.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
 - alterId: 0
   cipher: auto
   name: 香港-FREE优化节点-CDN | 2X
@@ -346,48 +116,8 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: b67d5434-621f-40db-a0b2-0f6f47b4485e
+  uuid: 407c2e2f-1827-4bf9-b4f2-ddaad6f5ff7c
   ws-opts:
     headers:
       Host: tci3.tiamoci.us.kg
     path: /
-- alterId: 0
-  cipher: auto
-  name: 香港NO.1
-  port: 45050
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 香港NO.2
-  port: 45051
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 马来西亚专线NO1
-  port: 45058
-  server: haa.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
-- alterId: 0
-  cipher: auto
-  name: 马来西亚专线NO2
-  port: 45059
-  server: xdd.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: c1400e73-2ad5-4a66-9b9e-90c79a275b92
