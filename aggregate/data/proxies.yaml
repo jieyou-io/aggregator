@@ -8,7 +8,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -18,7 +18,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -28,7 +28,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -38,7 +38,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
+- cipher: aes-256-gcm
+  name: 印度尼西亚
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 22665
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 台湾1
@@ -48,7 +55,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -58,7 +65,21 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
+- cipher: aes-256-gcm
+  name: 新加坡
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 17869
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: 新加坡2
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 43147
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 新加坡NO.1
@@ -68,7 +89,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -78,7 +99,21 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
+- cipher: aes-256-gcm
+  name: 日本
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 16540
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: 日本2
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 39030
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 日本NO.1
@@ -88,7 +123,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -98,7 +133,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -108,7 +143,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -118,7 +153,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
+- cipher: aes-256-gcm
+  name: 泰国
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 48494
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 泰国NO1
@@ -128,7 +170,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 泰国NO2
@@ -138,7 +180,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生1
@@ -148,7 +190,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -158,10 +200,10 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - cipher: chacha20-ietf-poly1305
   name: 爱尔兰-都柏林
-  password: 41db6ed5-c929-4352-88c7-561c798c86fb
+  password: d9e99874-d5d5-434f-8896-26754422caae
   port: 22800
   server: 107.175.187.181
   type: ss
@@ -170,26 +212,26 @@ proxies:
   cipher: auto
   name: 美国-拉斯维加斯-002
   network: ws
-  port: 23132
+  port: 23133
   server: 45.136.245.177
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 51a7c946-bfc1-4c0c-b468-b14cb20dcc64
+  uuid: ade1f0c6-7fbb-4f7d-9458-2607ad7fe696
   ws-opts:
     path: /
 - alterId: 0
   cipher: auto
   name: 美国-拉斯维加斯-003
   network: ws
-  port: 25016
+  port: 25017
   server: 45.136.245.177
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 51a7c946-bfc1-4c0c-b468-b14cb20dcc64
+  uuid: ade1f0c6-7fbb-4f7d-9458-2607ad7fe696
   ws-opts:
     path: /
 - alterId: 0
@@ -202,9 +244,16 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 51a7c946-bfc1-4c0c-b468-b14cb20dcc64
+  uuid: ade1f0c6-7fbb-4f7d-9458-2607ad7fe696
   ws-opts:
     path: /
+- cipher: aes-256-gcm
+  name: 美国1
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 29760
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 美国NO.1
@@ -214,7 +263,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -224,7 +273,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 英国1
@@ -234,7 +283,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 英国2
@@ -244,7 +293,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
+- cipher: aes-256-gcm
+  name: 韩国
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 30967
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO1
@@ -254,7 +310,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO2
@@ -264,30 +320,27 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - name: 韩国-三网优化2
-  password: 085ac63e-113c-45fc-9a5e-f7b454cdd55c
+  password: 0aea1fe0-dc29-4c2a-8769-6e0a39144cc0
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
   sni: kr-qingyun.dwyun.me
   type: trojan
   udp: true
-- alterId: 0
-  cipher: auto
-  name: 香港
-  port: 19901
-  server: xg.dashuai.cyou
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
 - cipher: chacha20-ietf-poly1305
   name: 香港-线路1
-  password: 41db6ed5-c929-4352-88c7-561c798c86fb
+  password: d9e99874-d5d5-434f-8896-26754422caae
   port: 22800
   server: 156.224.77.215
+  type: ss
+  udp: true
+- cipher: aes-256-gcm
+  name: 香港2
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 15815
+  server: ddns.kuaiyun1.cn
   type: ss
   udp: true
 - alterId: 0
@@ -299,7 +352,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 香港NO.2
@@ -309,7 +362,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO1
@@ -319,7 +372,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
 - alterId: 0
   cipher: auto
   name: 马来西亚专线NO2
@@ -329,4 +382,21 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: 75a7d087-193a-477a-bd56-aebdd727a8ce
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
+- cipher: aes-256-gcm
+  name: 香港-1A
+  password: d55f1ef2-adc3-4f61-99ba-665185a189c6
+  port: 32975
+  server: ddns.kuaiyun1.cn
+  type: ss
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 香港-1B
+  port: 19901
+  server: xg.dashuai.cyou
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: 38b9920e-cf16-4e42-8dad-920307541d91
