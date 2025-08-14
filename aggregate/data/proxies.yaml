@@ -1,10 +1,93 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 保加之一
-  password: c1318e4d-f817-44f4-8670-98bb65d1c6c1
-  port: 9478
-  server: 193.9.47.81
+  name: 1号专线 台湾TW 89
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 33922
+  server: 120.233.44.206
   type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1号专线 新加坡SG 146
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 39622
+  server: 120.233.44.206
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1号专线 日本JP 103
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 31923
+  server: 120.233.44.206
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1号专线 日本JP 114
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 36555
+  server: 120.233.44.206
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1号专线 美国US 205
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 39312
+  server: 120.233.44.206
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 1号专线 香港HK 113
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 39524
+  server: 120.233.44.206
+  type: ss
+  udp: true
+- name: 2号专线 日本JP 75
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 39769
+  server: cdntwa.xiaomispeed.com
+  skip-cert-verify: true
+  sni: cdntwa.xiaomispeed.com
+  type: trojan
+  udp: true
+- name: 2号专线 美国US 110
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 33889
+  server: cdntwa.xiaomispeed.com
+  skip-cert-verify: true
+  sni: cdntwa.xiaomispeed.com
+  type: trojan
+  udp: true
+- name: 2号专线 香港HK 244
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 38522
+  server: cdntwa.xiaomispeed.com
+  skip-cert-verify: true
+  sni: cdntwa.xiaomispeed.com
+  type: trojan
+  udp: true
+- name: 2号专线 香港HK 53
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 39765
+  server: cdntwa.xiaomispeed.com
+  skip-cert-verify: true
+  sni: cdntwa.xiaomispeed.com
+  type: trojan
+  udp: true
+- name: 2号专线 香港HK 74
+  password: dc51068d-8ecb-4f7b-86d0-ac566c5648a2
+  port: 33838
+  server: cdntwa.xiaomispeed.com
+  skip-cert-verify: true
+  sni: cdntwa.xiaomispeed.com
+  type: trojan
+  udp: true
+- name: USA
+  password: c28b4825-d9a9-40a4-98c0-13e1d27baad0
+  port: 443
+  server: usa-node.nexusvpn.app
+  skip-cert-verify: true
+  sni: usa-node.nexusvpn.app
+  type: trojan
   udp: true
 - alterId: 0
   cipher: auto
@@ -15,7 +98,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 加拿大2
@@ -25,7 +108,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 印度1
@@ -35,7 +118,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 印度2
@@ -45,31 +128,31 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - cipher: aes-256-gcm
   name: 台湾01
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 30372
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 台湾02
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 50796
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 台湾03
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 40034
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 台湾04
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 30555
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
@@ -83,7 +166,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 台湾2
@@ -93,45 +176,31 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
-- cipher: chacha20-ietf-poly1305
-  name: 德国之一
-  password: c1318e4d-f817-44f4-8670-98bb65d1c6c1
-  port: 8581
-  server: 185.183.181.242
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 德国之二
-  password: c1318e4d-f817-44f4-8670-98bb65d1c6c1
-  port: 3122
-  server: 31.22.10.139
-  type: ss
-  udp: true
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - cipher: aes-256-gcm
   name: 新加坡01
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 21878
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 新加坡02
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 17377
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 新加坡03
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 37908
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 新加坡04
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 12600
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
@@ -145,7 +214,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 新加坡NO.2
@@ -155,31 +224,31 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - cipher: aes-256-gcm
   name: 日本01
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 27663
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 日本02
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 22609
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 日本03
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 49812
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 日本04
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 28799
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
@@ -193,7 +262,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 日本NO.2
@@ -203,14 +272,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
-- cipher: chacha20-ietf-poly1305
-  name: 日本之一
-  password: c1318e4d-f817-44f4-8670-98bb65d1c6c1
-  port: 7281
-  server: 23.27.201.149
-  type: ss
-  udp: true
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 法国1
@@ -220,7 +282,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 法国2
@@ -230,7 +292,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生1
@@ -240,7 +302,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 澳大利亚原生2
@@ -250,38 +312,38 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - cipher: chacha20-ietf-poly1305
   name: 爱尔兰-都柏林
-  password: 0337bb47-bdb4-48e0-a22a-1dbf536bce85
+  password: 113da463-ca9d-4881-88d6-8678da78d501
   port: 22800
   server: 107.175.187.181
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 美国01
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 59270
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 美国02
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 52448
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 美国03
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 29646
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 美国04
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 32656
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
@@ -295,7 +357,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 美国NO.2
@@ -305,28 +367,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
-- cipher: chacha20-ietf-poly1305
-  name: 美国之一
-  password: c1318e4d-f817-44f4-8670-98bb65d1c6c1
-  port: 11496
-  server: 23.27.176.120
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 美国之三
-  password: c1318e4d-f817-44f4-8670-98bb65d1c6c1
-  port: 1122
-  server: 165.140.240.2
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 美国之二
-  password: c1318e4d-f817-44f4-8670-98bb65d1c6c1
-  port: 3596
-  server: 45.132.74.212
-  type: ss
-  udp: true
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 英国1
@@ -336,7 +377,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 英国2
@@ -346,7 +387,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO1
@@ -356,7 +397,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 韩国 专线NO2
@@ -366,9 +407,9 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - name: 韩国-三网优化2
-  password: fdb72e1d-323a-47b4-a1a5-4a96b08981f3
+  password: a5ff80d6-4410-4857-ae93-cc41ae06c70c
   port: 44732
   server: kr-qingyun.dwyun.me
   skip-cert-verify: true
@@ -377,35 +418,35 @@ proxies:
   udp: true
 - cipher: chacha20-ietf-poly1305
   name: 香港-线路1
-  password: 0337bb47-bdb4-48e0-a22a-1dbf536bce85
+  password: 113da463-ca9d-4881-88d6-8678da78d501
   port: 22800
   server: 156.224.77.215
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 香港01
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 24064
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 香港02
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 52005
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 香港03
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 57037
   server: wujrnbitcet.gym0boy.com
   type: ss
   udp: true
 - cipher: aes-256-gcm
   name: 香港04
-  password: 0257fcfd-8cae-4ed0-8a1d-c6e76f0fe3fc
+  password: b0b0f2e6-6282-4cb5-b6c2-950c0fb69a95
   port: 15034
   server: i2plcwjnhrl6.gym0boy.com
   type: ss
@@ -419,7 +460,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
 - alterId: 0
   cipher: auto
   name: 香港NO.2
@@ -429,4 +470,4 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: bc70f9ba-afbf-4235-8c22-0f03e7ac68e2
+  uuid: 2abd2ee0-1a6e-4ce3-b97c-acc053f4cc79
